@@ -1,72 +1,112 @@
 {
   "version": 1,
-  "base_track": "愛とU",
-  "base_artist": "Mega Shinnosuke",
-  "createdAt": "2025-12-01T18:31:35.869263Z",
+  "base_track": "say what u mean",
+  "base_artist": "aldn、Riovaz",
+  "createdAt": "2025-12-01T18:31:42.334098Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "愛とU",
-      "artist": "Mega Shinnosuke",
+      "title": "Say What U Mean",
+      "artist": "DUCKWRTH",
       "has_synced": true,
-      "path": "select/01_愛とU_Mega_Shinnosuke.lrc"
+      "path": "select/01_Say_What_U_Mean_DUCKWRTH.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "愛とU - Ai To U",
-      "artist": "Mega Shinnosuke",
+      "title": "Say What U Mean",
+      "artist": "Duckwrth",
       "has_synced": true,
-      "path": "select/02_愛とU_-_Ai_To_U_Mega_Shinnosuke.lrc"
+      "path": "select/02_Say_What_U_Mean_Duckwrth.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "愛とU (Sped Up Ver.) - Ai To U (Sped Up Ver.)",
-      "artist": "Mega Shinnosuke",
+      "title": "say what u mean",
+      "artist": "aldn",
       "has_synced": true,
-      "path": "select/03_愛とU_(Sped_Up_Ver.)_-_Ai_To_U_(Sped_Up_Ver.)_Mega_Shinnosuke.lrc"
+      "path": "select/03_say_what_u_mean_aldn.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "愛とU - Sped Up Ver.",
-      "artist": "Mega Shinnosuke",
+      "title": "say what u mean",
+      "artist": "Riovaz",
       "has_synced": true,
-      "path": "select/04_愛とU_-_Sped_Up_Ver._Mega_Shinnosuke.lrc"
+      "path": "select/04_say_what_u_mean_Riovaz.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "愛とU (Sped Up Ver.)",
-      "artist": "Mega Shinnosuke",
+      "title": "say what u mean",
+      "artist": "aldn",
       "has_synced": true,
-      "path": "select/05_愛とU_(Sped_Up_Ver.)_Mega_Shinnosuke.lrc"
+      "path": "select/05_say_what_u_mean_aldn.lrc"
     },
     {
-      "id": "petitlyrics_1",
-      "source": "petitlyrics",
-      "title": "愛とU",
-      "artist": "Mega Shinnosuke",
-      "has_synced": false,
-      "path": "select/pl_01_愛とU_Mega_Shinnosuke.txt"
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "say what u mean",
+      "artist": "aldn & Riovaz",
+      "has_synced": true,
+      "path": "select/06_say_what_u_mean_aldn_&_Riovaz.lrc"
     },
     {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "愛とU (Sped Up Ver.)",
-      "artist": "Mega Shinnosuke",
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "say what u mean",
+      "artist": "ALDN, Riovaz",
       "has_synced": false,
-      "path": "select/pl_02_愛とU_(Sped_Up_Ver.)_Mega_Shinnosuke.txt"
+      "path": "select/07_say_what_u_mean_ALDN,_Riovaz.txt"
     },
     {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "愛とU",
-      "artist": "Mega Shinnosuke",
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "say what u mean (with Riovaz)",
+      "artist": "aldn",
+      "has_synced": true,
+      "path": "select/08_say_what_u_mean_(with_Riovaz)_aldn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "say what u mean",
+      "artist": "aldn feat. Riovaz",
+      "has_synced": true,
+      "path": "select/09_say_what_u_mean_aldn_feat._Riovaz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "say what u mean (with Riovaz)",
+      "artist": "aldn, Riovaz",
+      "has_synced": true,
+      "path": "select/10_say_what_u_mean_(with_Riovaz)_aldn,_Riovaz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "say what u mean (with Riovaz)",
+      "artist": "aldn\u0000Riovaz",
       "has_synced": false,
-      "path": "select/pl_03_愛とU_Mega_Shinnosuke.txt"
+      "path": "select/11_say_what_u_mean_(with_Riovaz)_aldn\u0000Riovaz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "say what u mean (with Riovaz) (Paused)",
+      "artist": "aldn",
+      "has_synced": true,
+      "path": "select/12_say_what_u_mean_(with_Riovaz)_(Paused)_aldn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "say what u mean (with Riovaz)",
+      "artist": "aldn feat. Riovaz",
+      "has_synced": true,
+      "path": "select/13_say_what_u_mean_(with_Riovaz)_aldn_feat._Riovaz.lrc"
     }
   ]
 }
