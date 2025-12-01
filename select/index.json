@@ -1,112 +1,136 @@
 {
   "version": 1,
-  "base_track": "say what u mean",
-  "base_artist": "aldn、Riovaz",
-  "createdAt": "2025-12-01T18:31:42.334098Z",
+  "base_track": "What You Know",
+  "base_artist": "Two Door Cinema Club",
+  "createdAt": "2025-12-01T18:31:50.199453Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Say What U Mean",
-      "artist": "DUCKWRTH",
+      "title": "What You Know (feat. Lancey Foux)",
+      "artist": "Ken Car$on feat. Lancey Foux",
       "has_synced": true,
-      "path": "select/01_Say_What_U_Mean_DUCKWRTH.lrc"
+      "path": "select/01_What_You_Know_(feat._Lancey_Foux)_Ken_Car$on_feat._Lancey_Foux.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Say What U Mean",
-      "artist": "Duckwrth",
+      "title": "What You Know",
+      "artist": "Ken Car$on",
       "has_synced": true,
-      "path": "select/02_Say_What_U_Mean_Duckwrth.lrc"
+      "path": "select/02_What_You_Know_Ken_Car$on.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "say what u mean",
-      "artist": "aldn",
+      "title": "What You Know",
+      "artist": "Freddie Dredd",
       "has_synced": true,
-      "path": "select/03_say_what_u_mean_aldn.lrc"
+      "path": "select/03_What_You_Know_Freddie_Dredd.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "say what u mean",
-      "artist": "Riovaz",
+      "title": "What You Know Bout Love",
+      "artist": "Pop Smoke",
       "has_synced": true,
-      "path": "select/04_say_what_u_mean_Riovaz.lrc"
+      "path": "select/04_What_You_Know_Bout_Love_Pop_Smoke.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "say what u mean",
-      "artist": "aldn",
-      "has_synced": true,
-      "path": "select/05_say_what_u_mean_aldn.lrc"
+      "title": "Write What You Know",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/05_Write_What_You_Know_Stars.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "say what u mean",
-      "artist": "aldn & Riovaz",
+      "title": "What You Know",
+      "artist": "T.I.",
       "has_synced": true,
-      "path": "select/06_say_what_u_mean_aldn_&_Riovaz.lrc"
+      "path": "select/06_What_You_Know_T.I..lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "say what u mean",
-      "artist": "ALDN, Riovaz",
-      "has_synced": false,
-      "path": "select/07_say_what_u_mean_ALDN,_Riovaz.txt"
+      "title": "What You Know",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/07_What_You_Know_Two_Door_Cinema_Club.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "say what u mean (with Riovaz)",
-      "artist": "aldn",
-      "has_synced": true,
-      "path": "select/08_say_what_u_mean_(with_Riovaz)_aldn.lrc"
+      "title": "What You Know (Cassian Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/08_What_You_Know_(Cassian_Remix)_Two_Door_Cinema_Club.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "say what u mean",
-      "artist": "aldn feat. Riovaz",
+      "title": "Come Back To What You Know",
+      "artist": "Embrace",
       "has_synced": true,
-      "path": "select/09_say_what_u_mean_aldn_feat._Riovaz.lrc"
+      "path": "select/09_Come_Back_To_What_You_Know_Embrace.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "say what u mean (with Riovaz)",
-      "artist": "aldn, Riovaz",
+      "title": "What You Know Bout Love",
+      "artist": "Pop Smoke",
       "has_synced": true,
-      "path": "select/10_say_what_u_mean_(with_Riovaz)_aldn,_Riovaz.lrc"
+      "path": "select/10_What_You_Know_Bout_Love_Pop_Smoke.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "say what u mean (with Riovaz)",
-      "artist": "aldn\u0000Riovaz",
+      "title": "What You Know (Cassian remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/11_What_You_Know_(Cassian_remix)_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What You Know",
+      "artist": "Two Door Cinema Club",
       "has_synced": false,
-      "path": "select/11_say_what_u_mean_(with_Riovaz)_aldn\u0000Riovaz.txt"
+      "path": "select/pl_01_What_You_Know_Two_Door_Cinema_Club.txt"
     },
     {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "say what u mean (with Riovaz) (Paused)",
-      "artist": "aldn",
-      "has_synced": true,
-      "path": "select/12_say_what_u_mean_(with_Riovaz)_(Paused)_aldn.lrc"
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "What You Know Bout Love",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/pl_02_What_You_Know_Bout_Love_Two_Door_Cinema_Club.txt"
     },
     {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "say what u mean (with Riovaz)",
-      "artist": "aldn feat. Riovaz",
-      "has_synced": true,
-      "path": "select/13_say_what_u_mean_(with_Riovaz)_aldn_feat._Riovaz.lrc"
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "What You Know Bout Love",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/pl_03_What_You_Know_Bout_Love_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "What You Know About Rolling Down In The Deep",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/pl_04_What_You_Know_About_Rolling_Down_In_The_Deep_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "What You Know",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/pl_05_What_You_Know_Two_Door_Cinema_Club.txt"
     }
   ]
 }
