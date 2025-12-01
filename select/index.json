@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Paranoid (Just Raw)",
+  "base_artist": "Aloboi",
+  "createdAt": "2025-12-01T18:31:24.940973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paranoid - Just Raw",
+      "artist": "Aloboi",
+      "has_synced": true,
+      "path": "select/01_Paranoid_-_Just_Raw_Aloboi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paranoid (Just Raw)",
+      "artist": "Aloboi",
+      "has_synced": true,
+      "path": "select/02_Paranoid_(Just_Raw)_Aloboi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paranoid - Just Raw (Paused)",
+      "artist": "Aloboi",
+      "has_synced": true,
+      "path": "select/03_Paranoid_-_Just_Raw_(Paused)_Aloboi.lrc"
+    }
+  ]
+}
